@@ -9,5 +9,9 @@ you can check if it is even or odd using modulus (%).
 use an if-else statement in a for loop.
 
 if(j%2 == 0){
-    
+
+    question 2
+    use a for loop from 1 to 100
+    Write a Java program if a number is odd it should print fizz and if it is even it should print buzz. It should display the number.
+
 }
