@@ -16,5 +16,7 @@ if(j%2 == 0){
     OUTPUT:
     1 fizz
     2 buzz
+    
+    question 3
 
-}
+Write a Java program that takes a month number as input (1 for January, 2 for February, etc.) and prints the name of the corresponding month. If the user enters a number outside the range of 1 to 12, the program should print "Invalid month number."
