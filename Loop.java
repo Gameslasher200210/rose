@@ -1,17 +1,14 @@
-public class Loop {
-    
+public class Loop{
+    public void greet(int num){
+        System.out.println(num*num);
+    }
+    public int greeti(int num){
+        return num*num;
+    }
     public static void main(String[] args){
-    for (int num = 1 ; num < 22 ; num++ ){
-    
-        if (num%2 == 0 ){
-            System.out.println("it is even ");
-        }else if (num%2 == 1){
-           System.out.println("it is odd"); 
-        }
-        
-        
-
+    Loop squared = new Loop();
+    squared.greet(7);
+    int anything = squared.greeti(5);
+    System.out.println(anything);
     }
-
-    }
-} 
+}
