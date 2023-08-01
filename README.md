@@ -11,3 +11,5 @@ divide should be a static boolean
 multiply should be a non static void
 
 create a method that counts 1 to 10 using any loop.
+
+each should be in their own file.
