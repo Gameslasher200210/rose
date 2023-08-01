@@ -1,4 +1,4 @@
-new homeworks
+new homeworks (_each should be in their own file._)
 
 Write a Java program that takes a month number as input (1 for January, 2 for February, etc.) and prints the name of the corresponding month. If the user enters a number outside the range of 1 to 12, the program should print "Invalid month number."
 
@@ -11,5 +11,3 @@ divide should be a static boolean
 multiply should be a non static void
 
 create a method that counts 1 to 10 using any loop.
-
-each should be in their own file.
